@@ -1,0 +1,5 @@
+retrasing each step might be bad
+
+To do:
+    add bend strech term
+    add out of plain
