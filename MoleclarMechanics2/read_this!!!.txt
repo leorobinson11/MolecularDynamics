@@ -1,5 +1,3 @@
-retrasing each step might be bad
-
-To do:
-    add bend strech term
-    add out of plain
+The code is in the Forcefields and the Simulation foldes
+The results are in the Results Folder
+The inputs are in the Molecules folder
