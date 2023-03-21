@@ -1,0 +1,4 @@
+retrasing each step might be bad
+
+To do:
+    - figure out why its always the last one being saved
